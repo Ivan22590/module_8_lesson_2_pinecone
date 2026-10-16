@@ -1,0 +1,17 @@
+# --- Telegram-бот (асинхронный) ---
+# Рекомендуемая версия: aiogram>=3.7
+aiogram
+
+# --- LLM-клиент (OpenAI-совместимый, ProxyAPI) ---
+# Рекомендуемая версия: openai>=1.40
+openai
+
+# --- Структурированный вывод ответов модели (bot_with_memory.py) ---
+# Рекомендуемая версия: pydantic>=2.0
+pydantic
+
+# --- Переменные окружения ---
+# Рекомендуемая версия: python-dotenv>=1.0
+python-dotenv
+
+pinecone
